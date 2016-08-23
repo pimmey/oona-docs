@@ -22,3 +22,5 @@
 - http://jade-lang.com/
 - http://sass-lang.com/
 - https://www.npmjs.com/
+- http://eslint.org
+- https://github.com/brigade/scss-lint
